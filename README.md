@@ -1,1 +1,1 @@
-# Extreal.Integration.Multiplay.LiveKit
+# Extreal.Integration.Multiplay.Messaging

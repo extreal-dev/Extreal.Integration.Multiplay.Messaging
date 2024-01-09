@@ -1,0 +1,27 @@
+{
+    "name": "Extreal.Integration.Multiplay.Messaging.Test",
+    "rootNamespace": "Extreal.Integration.Multiplay.Messaging.Test",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Extreal.Integration.Multiplay.Messaging",
+        "Extreal.Integration.Messaging",
+        "Extreal.Core.Logging",
+        "Extreal.Core.Common",
+        "UniTask",
+        "UniRx"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
